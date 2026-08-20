@@ -23,8 +23,6 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 
 ![ROC Curve](Images/roc_curve.png)
 
-## 🚀 How to Run
-
  **Clone the repository:**
 ## 🚀 How to Run
 
