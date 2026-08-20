@@ -24,6 +24,7 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 ![ROC Curve](Images/roc_curve.png)
 
 ## 🚀 How to Run
-1. Clone the repository:
+
+ **Clone the repository:**
    ```bash
- git clone https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git
+   git clone [https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git](https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git)
