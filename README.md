@@ -15,8 +15,9 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 - Matplotlib, Seaborn, PIL
 
 ## 📊 Performance
-- **Training Accuracy**: ~91%
+- **Sparse Categorical Accuracy**: ~91%
 - **Loss Metric**: Sparse Categorical Cross-Entropy
+- **Input Resolution**: 128x128 pixels (RGB)
 
 ### Confusion Matrix & ROC Curve
 <p align="center">
