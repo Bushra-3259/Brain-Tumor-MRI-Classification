@@ -19,14 +19,13 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 - **Loss Metric**: Sparse Categorical Cross-Entropy
 
 ### Confusion Matrix & ROC Curve
-![Confusion Matrix](Images/confusion_matrix.png)
+<p align="center">
+  <img src="Images/confusion_matrix.png" width="48%" title="Confusion Matrix"/>
+  <img src="Images/roc_curve.png" width="48%" title="ROC Curve"/>
+</p>
 
-![ROC Curve](Images/roc_curve.png)
-
- **Clone the repository:**
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git](https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git)
-   ```
+   git clone https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git
