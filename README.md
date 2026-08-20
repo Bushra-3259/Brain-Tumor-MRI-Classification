@@ -26,4 +26,4 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/brain-tumor-mri-classification.git](https://github.com/your-username/brain-tumor-mri-classification.git)
+ git clone https://github.com/Bushra-3259/Brain-Tumor-MRI-Classification.git
