@@ -19,8 +19,9 @@ An end-to-end deep learning pipeline to classify brain MRI scans into four categ
 - **Loss Metric**: Sparse Categorical Cross-Entropy
 
 ### Confusion Matrix & ROC Curve
-![Confusion Matrix](images/confusion_matrix.png)
-![ROC Curve](images/roc_curve.png)
+![Confusion Matrix](Images/confusion_matrix.png)
+
+![ROC Curve](Images/roc_curve.png)
 
 ## 🚀 How to Run
 1. Clone the repository:
